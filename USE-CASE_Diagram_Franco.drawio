@@ -143,7 +143,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="BML6NpVpieNvL4zxwGRu" name="Figure-2">
-        <mxGraphModel dx="615" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="724" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -152,9 +152,6 @@
                 </mxCell>
                 <mxCell id="67Oy9bC2TGw4-lMExQ8O-2" value="Figure 2 - Breedr Profile Management&amp;nbsp;&lt;br&gt;Actor: Pet Owner" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" parent="1" vertex="1">
                     <mxGeometry x="140" y="160" width="285" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="67Oy9bC2TGw4-lMExQ8O-3" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-                    <mxGeometry x="140" y="200" width="340" height="490" as="geometry"/>
                 </mxCell>
                 <mxCell id="67Oy9bC2TGw4-lMExQ8O-4" value="Pet Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
                     <mxGeometry x="70" y="430" width="40" height="80" as="geometry"/>
@@ -235,11 +232,14 @@
                 <mxCell id="67Oy9bC2TGw4-lMExQ8O-24" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
                     <mxGeometry x="300" y="600" width="60" height="20" as="geometry"/>
                 </mxCell>
+                <mxCell id="67Oy9bC2TGw4-lMExQ8O-3" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="200" width="340" height="490" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="qbiNSzhkXyyQNWIkHcqn" name="Figure 3">
-        <mxGraphModel dx="879" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="946" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -461,7 +461,7 @@
                 <mxCell id="AjdP1D6R_ZmX-FNv23NU-3" value="Figure 5 - Aynchronous Veterinary Verification&lt;div&gt;Actors: Pet Owner &amp;amp; Veterinarian&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" parent="1" vertex="1">
                     <mxGeometry x="102.5" y="60" width="315" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="AjdP1D6R_ZmX-FNv23NU-4" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Aynchronous Veterinary Verification&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" parent="1" vertex="1">
+                <mxCell id="AjdP1D6R_ZmX-FNv23NU-4" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Asynchronous Veterinary Verification&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" parent="1" vertex="1">
                     <mxGeometry x="140" y="110" width="240" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="AjdP1D6R_ZmX-FNv23NU-5" value="Pet Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
