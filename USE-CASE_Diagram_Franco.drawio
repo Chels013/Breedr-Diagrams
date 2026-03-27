@@ -726,10 +726,10 @@
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="vfrfEiJsK9BeGQpQz3MB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="110" y="40" width="400" height="390" as="geometry"/>
+                    <mxGeometry x="120" y="40" width="390" height="390" as="geometry"/>
                 </mxCell>
                 <mxCell id="NlXom5A_95sXFOaGmvUP-1" value="Figure 10 - Notification Management&lt;div&gt;Actor: Pet Owner, Veteriniarian,&amp;nbsp; and Admin&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-                    <mxGeometry x="130" y="50" width="450" height="30" as="geometry"/>
+                    <mxGeometry x="175" y="50" width="280" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="NlXom5A_95sXFOaGmvUP-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="210" y="90" width="290" height="330" as="geometry"/>
@@ -738,7 +738,7 @@
                     <mxGeometry x="212.5" y="90" width="295" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="NlXom5A_95sXFOaGmvUP-4" value="Pet Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-                    <mxGeometry x="130" y="210" width="40" height="80" as="geometry"/>
+                    <mxGeometry x="140" y="210" width="40" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="NlXom5A_95sXFOaGmvUP-6" value="View Notifications List" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="280" y="130" width="150" height="50" as="geometry"/>
