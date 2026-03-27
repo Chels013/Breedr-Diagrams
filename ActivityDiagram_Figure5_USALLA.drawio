@@ -1,125 +1,171 @@
 <mxfile host="65bd71144e">
     <diagram id="JAYcHYTZs9Sr9ovyukGK" name="Page-1">
-        <mxGraphModel dx="942" dy="1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="2730" dy="2351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="30" y="-100" width="450" height="1280" as="geometry"/>
+                <mxCell id="41" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.3333333333333333;" vertex="1" parent="1">
+                    <mxGeometry x="-160" y="-70" width="1360" height="1150" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Figure 5 — Asynchronous Veterinary Verification&lt;/p&gt;&lt;p&gt;Actors: Pet Owner / Veterinarian&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="120" y="-90" width="270" height="30" as="geometry"/>
+                <mxCell id="48" value="" style="endArrow=none;html=1;exitX=0;exitY=0.061;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.002;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="41" target="41">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="610" y="480" as="sourcePoint"/>
+                        <mxPoint x="660" y="430" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
-                <mxCell id="11" style="edgeStyle=none;html=1;" parent="1" source="4" target="7" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
+                <mxCell id="71" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Pet owner&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="5" y="-50" width="110" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Upload Health Documents&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-                    <mxGeometry x="195" y="20" width="120" height="60" as="geometry"/>
+                <mxCell id="72" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;System&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="-50" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-                    <mxGeometry x="240" y="-50" width="30" height="30" as="geometry"/>
+                <mxCell id="73" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Veterinarian&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="940" y="-50" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5" target="4" edge="1">
+                <mxCell id="74" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+                    <mxGeometry x="45" y="10" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="74" parent="1" target="78">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="255" y="40" as="targetPoint"/>
+                        <mxPoint x="420" y="160" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="12" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7" target="8" edge="1">
+                <mxCell id="80" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="78" target="79">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Request Vet-Verified Badge&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-                    <mxGeometry x="195" y="110" width="120" height="60" as="geometry"/>
+                <mxCell id="78" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Upload health documents&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+                    <mxGeometry y="70" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" style="edgeStyle=none;html=1;" parent="1" source="8" target="9" edge="1">
+                <mxCell id="83" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="79" target="81">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Status: Pending Vet Review&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-                    <mxGeometry x="195" y="200" width="120" height="60" as="geometry"/>
+                <mxCell id="79" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Request vet-verified badge&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+                    <mxGeometry y="170" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" style="edgeStyle=none;html=1;" parent="1" source="9" target="10" edge="1">
+                <mxCell id="84" style="edgeStyle=none;html=1;" edge="1" parent="1" source="81" target="82">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Veterinarian Receives Verification Request&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-                    <mxGeometry x="195" y="300" width="120" height="60" as="geometry"/>
+                <mxCell id="81" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Status: Pending&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="170" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="10" target="15" edge="1">
+                <mxCell id="101" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="82" target="86">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Review Health Documents&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-                    <mxGeometry x="195" y="390" width="120" height="60" as="geometry"/>
+                <mxCell id="82" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Receive verification&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+                    <mxGeometry x="900" y="170" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="15" target="22" edge="1">
+                <mxCell id="100" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="86" target="87">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="32" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="27" vertex="1" connectable="0">
-                    <mxGeometry x="-0.24" y="2" relative="1" as="geometry">
+                <mxCell id="86" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Review health documents&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+                    <mxGeometry x="900" y="280" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="99" style="edgeStyle=none;html=1;" edge="1" parent="1" source="87" target="88">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="118" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="99">
+                    <mxGeometry x="-0.2629" y="4" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="40" style="edgeStyle=none;html=1;" edge="1" parent="1" source="15" target="16">
+                <mxCell id="114" style="edgeStyle=none;html=1;" edge="1" parent="1" source="87" target="113">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="41" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="40">
-                    <mxGeometry x="-0.0109" y="-1" relative="1" as="geometry">
+                <mxCell id="117" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="114">
+                    <mxGeometry x="0.029" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="15" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Records Valid?&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="215" y="500" width="80" height="80" as="geometry"/>
+                <mxCell id="87" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Records valid?&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="920" y="380" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Reject&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-                    <mxGeometry x="40" y="510" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="28" style="edgeStyle=none;html=1;" parent="1" source="22" target="23" edge="1">
+                <mxCell id="98" style="edgeStyle=none;html=1;" edge="1" parent="1" source="88" target="89">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="22" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Issue Vet-Verified Badge&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-                    <mxGeometry x="195" y="630" width="120" height="60" as="geometry"/>
+                <mxCell id="88" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Issue vet-verified badge&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+                    <mxGeometry x="900" y="530" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" style="edgeStyle=none;html=1;" parent="1" source="23" target="24" edge="1">
+                <mxCell id="97" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="89" target="91">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="23" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Receive Vet Verification Result&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-                    <mxGeometry x="195" y="740" width="120" height="60" as="geometry"/>
+                <mxCell id="89" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Receive vet&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="530" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="30" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="24" target="25" edge="1">
+                <mxCell id="95" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="90" target="92">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="33" value="Approved" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="30" vertex="1" connectable="0">
-                    <mxGeometry x="-0.2843" y="1" relative="1" as="geometry">
+                <mxCell id="90" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Vet-verified badge&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="780" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="96" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="91" target="90">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="119" value="Approved" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="96">
+                    <mxGeometry x="0.0053" y="3" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="34" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="24" target="26" edge="1">
+                <mxCell id="120" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="91" target="78">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="420" y="880"/>
-                            <mxPoint x="420" y="1090"/>
+                            <mxPoint x="1110" y="690"/>
+                            <mxPoint x="1110" y="110"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="35" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Rejected — re-upload&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="34" vertex="1" connectable="0">
-                    <mxGeometry x="0.019" relative="1" as="geometry">
+                <mxCell id="121" value="Rejext" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="120">
+                    <mxGeometry x="-0.1883" y="1" relative="1" as="geometry">
+                        <mxPoint y="1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="91" value="Result?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="650" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="94" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="92" target="93">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Pet owner notified&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+                    <mxGeometry x="5" y="780" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="93" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="910" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="102" value="" style="endArrow=none;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="41">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-90" y="350" as="sourcePoint"/>
+                        <mxPoint x="-160" y="-130" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="103" value="" style="endArrow=none;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="41">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1200" y="-120" as="sourcePoint"/>
+                        <mxPoint x="540" y="100" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="104" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-160" y="-130" as="sourcePoint"/>
+                        <mxPoint x="1200" y="-120" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="109" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Figure 5. Activity Diagram — Asynchronous Veterinary Verification&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="-120" width="600" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="115" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="113" target="78">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-60" y="420"/>
+                            <mxPoint x="-60" y="100"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="116" value="Re-Upload" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="115">
+                    <mxGeometry x="-0.0203" y="-2" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="24" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Result?&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="215" y="840" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="31" style="edgeStyle=none;html=1;" parent="1" source="25" target="26" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="25" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Vet-Verified Badge Added to Pet Profile&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-                    <mxGeometry x="195" y="970" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="39" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="26" target="38" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="26" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Pet Owner Notified — Verification Complete&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-                    <mxGeometry x="195" y="1060" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="38" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-                    <mxGeometry x="240" y="1140" width="30" height="30" as="geometry"/>
+                <mxCell id="113" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Reject&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+                    <mxGeometry y="390" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
