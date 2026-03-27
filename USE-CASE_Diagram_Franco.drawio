@@ -364,7 +364,7 @@
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="pEyKJtFJUSZk3R5uv4Gd-1" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
-                    <mxGeometry x="37.5" y="40" width="402.5" height="380" as="geometry"/>
+                    <mxGeometry x="50" y="40" width="390" height="380" as="geometry"/>
                 </mxCell>
                 <mxCell id="gIf6EeouHNI3zQz8UaCN-2" value="Figure 6 - Breeding Request Management&lt;div&gt;Actors: Pet&amp;nbsp; Owner&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="82.5" y="50" width="312.5" height="30" as="geometry"/>
