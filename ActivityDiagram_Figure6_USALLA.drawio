@@ -1,14 +1,14 @@
 <mxfile host="65bd71144e">
     <diagram id="x5kWFHaz17k780mm0BXn" name="Page-1">
-        <mxGraphModel dx="2152" dy="1966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1792" dy="1663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="49" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-120" y="-400" width="600" height="1460" as="geometry"/>
                 </mxCell>
-                <mxCell id="50" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Figure 6 — Geolocation-Based Pet Browsing and Matchmaking&lt;/p&gt;&lt;p&gt;Actors: Pet Owner · External Mapping Services&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="30" y="-380" width="300" height="50" as="geometry"/>
+                <mxCell id="50" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&amp;nbsp;&lt;span style=&quot;background-color: transparent; scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;Activity Diagram —&lt;/span&gt;&lt;span style=&quot;background-color: transparent; scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;&amp;nbsp;Geolocation-Based Pet Browsing and Matchmaking&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Actors: Pet Owner · External Mapping Services&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-40" y="-390" width="440" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="51" style="edgeStyle=none;html=1;" parent="1" source="52" target="56" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
