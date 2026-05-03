@@ -1,11 +1,11 @@
 <mxfile host="65bd71144e">
     <diagram id="Y2s4l5dknOjYR_5nkmyM" name="figure 1">
-        <mxGraphModel dx="1061" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="772" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" style="" parent="0"/>
                 <mxCell id="pencq6KItkqmE6v31pXl-30" value="&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="80" y="330" width="410" height="410" as="geometry"/>
+                    <mxGeometry x="80" y="350" width="410" height="390" as="geometry"/>
                 </mxCell>
                 <mxCell id="pencq6KItkqmE6v31pXl-37" value="&lt;div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="420" y="268" width="20" height="10" as="geometry"/>
@@ -13,8 +13,8 @@
                 <mxCell id="5" value="Pet Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
                     <mxGeometry x="100" y="475" width="40" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font&gt;Figure 1 - Account Registration &amp;amp; Authentication&lt;/font&gt;&lt;br&gt;Actor: Pet Owner&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" parent="1" vertex="1">
-                    <mxGeometry x="105" y="340" width="360" height="30" as="geometry"/>
+                <mxCell id="11" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Actor: Pet Owner&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="105" y="350" width="360" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="13" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
                     <mxGeometry x="180" y="380" width="300" height="350" as="geometry"/>
@@ -62,18 +62,18 @@
         </mxGraphModel>
     </diagram>
     <diagram id="BML6NpVpieNvL4zxwGRu" name="Figure-2">
-        <mxGraphModel dx="1061" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="772" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="4TnQlvScVvK0TGftWF_e-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="50" y="150" width="400" height="470" as="geometry"/>
+                    <mxGeometry x="50" y="170" width="400" height="450" as="geometry"/>
                 </mxCell>
                 <mxCell id="67Oy9bC2TGw4-lMExQ8O-3" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
                     <mxGeometry x="140" y="200" width="300" height="410" as="geometry"/>
                 </mxCell>
-                <mxCell id="67Oy9bC2TGw4-lMExQ8O-2" value="Figure 2 -&amp;nbsp; Pet Registration And&amp;nbsp; Management&amp;nbsp;&lt;br&gt;Actor: Pet Owner" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" parent="1" vertex="1">
-                    <mxGeometry x="70" y="160" width="362.5" height="30" as="geometry"/>
+                <mxCell id="67Oy9bC2TGw4-lMExQ8O-2" value="Actor: Pet Owner" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="170" width="362.5" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="67Oy9bC2TGw4-lMExQ8O-4" value="Pet Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
                     <mxGeometry x="70" y="375" width="40" height="80" as="geometry"/>
@@ -130,18 +130,18 @@
         </mxGraphModel>
     </diagram>
     <diagram id="qbiNSzhkXyyQNWIkHcqn" name="Figure 3">
-        <mxGraphModel dx="1061" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="772" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="2OOhnXjojKZrbIvHr0P6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
-                    <mxGeometry x="80" y="110" width="380" height="330" as="geometry"/>
+                    <mxGeometry x="80" y="130" width="380" height="310" as="geometry"/>
                 </mxCell>
                 <mxCell id="2OOhnXjojKZrbIvHr0P6-2" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
                     <mxGeometry x="160" y="160" width="290" height="270" as="geometry"/>
                 </mxCell>
-                <mxCell id="2OOhnXjojKZrbIvHr0P6-3" value="Figure 3 - Health Record Management&lt;div&gt;Actor: Pet Owner&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" parent="1" vertex="1">
-                    <mxGeometry x="115" y="120" width="330" height="30" as="geometry"/>
+                <mxCell id="2OOhnXjojKZrbIvHr0P6-3" value="&lt;div&gt;Actor: Pet Owner&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="112.5" y="130" width="330" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="2OOhnXjojKZrbIvHr0P6-4" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Health Record Management&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" parent="1" vertex="1">
                     <mxGeometry x="187.5" y="160" width="255" height="30" as="geometry"/>
@@ -180,19 +180,15 @@
         </mxGraphModel>
     </diagram>
     <diagram id="gHYXVSMO9gN8W9BerWVk" name="Fig-4">
-<<<<<<< HEAD
-        <mxGraphModel dx="1061" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-=======
-        <mxGraphModel dx="772" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
->>>>>>> 6b89218d8e48d7c6fc71697f53b54a1838ef478c
+        <mxGraphModel dx="772" dy="233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="99ZLhM3SmybS2UbhupJX-1" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
-                    <mxGeometry x="30" y="60" width="540" height="470" as="geometry"/>
+                    <mxGeometry x="30" y="80" width="540" height="450" as="geometry"/>
                 </mxCell>
-                <mxCell id="99ZLhM3SmybS2UbhupJX-10" value="Figure 4 - Asynchronous Veterinary Verification&lt;div&gt;Actor: Pet owner &amp;amp; Veterinarian&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" parent="1" vertex="1">
-                    <mxGeometry x="110" y="70" width="360" height="30" as="geometry"/>
+                <mxCell id="99ZLhM3SmybS2UbhupJX-10" value="&lt;div&gt;Actor: Pet owner &amp;amp; Veterinarian&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="80" width="360" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="99ZLhM3SmybS2UbhupJX-11" value="Pet Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
                     <mxGeometry x="50" y="260" width="40" height="80" as="geometry"/>
@@ -271,22 +267,18 @@
         </mxGraphModel>
     </diagram>
     <diagram id="PYBpGngX9qgnBwvfVw8s" name="fig-5">
-<<<<<<< HEAD
-        <mxGraphModel dx="1061" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-=======
         <mxGraphModel dx="772" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
->>>>>>> 6b89218d8e48d7c6fc71697f53b54a1838ef478c
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="AjdP1D6R_ZmX-FNv23NU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
-                    <mxGeometry x="90" y="40" width="500" height="450" as="geometry"/>
+                    <mxGeometry x="90" y="70" width="500" height="420" as="geometry"/>
                 </mxCell>
                 <mxCell id="AjdP1D6R_ZmX-FNv23NU-2" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
                     <mxGeometry x="170" y="100" width="330" height="380" as="geometry"/>
                 </mxCell>
-                <mxCell id="AjdP1D6R_ZmX-FNv23NU-3" value="Figure 5 - Geolocation-Based Pet Browsing and Matchmaking&lt;div&gt;Actors: Pet Owner&amp;nbsp; &amp;amp;&amp;nbsp;GPS/Location Service&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" parent="1" vertex="1">
-                    <mxGeometry x="118.75" y="50" width="432.5" height="30" as="geometry"/>
+                <mxCell id="AjdP1D6R_ZmX-FNv23NU-3" value="&lt;div&gt;Actors: Pet Owner&amp;nbsp; &amp;amp;&amp;nbsp;GPS/Location Service&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="118.75" y="70" width="432.5" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="AjdP1D6R_ZmX-FNv23NU-4" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Geolocation-Based Pet Browsing and Matchmaking&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" parent="1" vertex="1">
                     <mxGeometry x="162.5" y="100" width="345" height="30" as="geometry"/>
@@ -358,19 +350,15 @@
         </mxGraphModel>
     </diagram>
     <diagram id="C5Qypksnh9oytYV9ywlq" name="fig-6">
-<<<<<<< HEAD
-        <mxGraphModel dx="1061" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-=======
         <mxGraphModel dx="772" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
->>>>>>> 6b89218d8e48d7c6fc71697f53b54a1838ef478c
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="pEyKJtFJUSZk3R5uv4Gd-1" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
-                    <mxGeometry x="50" y="40" width="390" height="380" as="geometry"/>
+                    <mxGeometry x="40" y="60" width="400" height="360" as="geometry"/>
                 </mxCell>
-                <mxCell id="gIf6EeouHNI3zQz8UaCN-2" value="Figure 6 - Breeding Request Management&lt;div&gt;Actors: Pet&amp;nbsp; Owner&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-                    <mxGeometry x="82.5" y="50" width="312.5" height="30" as="geometry"/>
+                <mxCell id="gIf6EeouHNI3zQz8UaCN-2" value="&lt;div&gt;Actors: Pet&amp;nbsp; Owner&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="82.5" y="60" width="312.5" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="gIf6EeouHNI3zQz8UaCN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="120" y="90" width="300" height="320" as="geometry"/>
@@ -421,22 +409,18 @@
         </mxGraphModel>
     </diagram>
     <diagram id="ioXXpTUh8POL-mLfpGcz" name="Fig-7">
-<<<<<<< HEAD
-        <mxGraphModel dx="1061" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-=======
         <mxGraphModel dx="772" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
->>>>>>> 6b89218d8e48d7c6fc71697f53b54a1838ef478c
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="kqdcrvkxsLxp2WER3xN8-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="40" y="40" width="450" height="580" as="geometry"/>
+                    <mxGeometry x="40" y="60" width="450" height="560" as="geometry"/>
                 </mxCell>
                 <mxCell id="VtwmRzbdJs0QnfrrB25L-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="120" y="90" width="360" height="520" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtwmRzbdJs0QnfrrB25L-2" value="Figure 7 - Adoption Request Management&lt;div&gt;Actors: Pet Owner (Requester)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-                    <mxGeometry x="122.5" y="50" width="355" height="30" as="geometry"/>
+                <mxCell id="VtwmRzbdJs0QnfrrB25L-2" value="&lt;div&gt;Actors: Pet Owner (Requester)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="122.5" y="60" width="355" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="VtwmRzbdJs0QnfrrB25L-3" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Adoption Request Management&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="182.5" y="90" width="235" height="30" as="geometry"/>
@@ -500,20 +484,28 @@
                         <mxPoint x="238" y="585" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="4XjjrRT6VgXeb0uv36S--1" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="VtwmRzbdJs0QnfrrB25L-10" target="ImF0RHt4-PgJbQm7pp8O-1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="90" y="360" as="sourcePoint"/>
+                        <mxPoint x="235" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4XjjrRT6VgXeb0uv36S--2" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="VtwmRzbdJs0QnfrrB25L-10" target="VtwmRzbdJs0QnfrrB25L-5" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="90" y="360" as="sourcePoint"/>
+                        <mxPoint x="235" y="425" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="JNKnOh4fXYJHxtB1TWOi" name="Fig-8">
-<<<<<<< HEAD
-        <mxGraphModel dx="1061" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-=======
         <mxGraphModel dx="772" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
->>>>>>> 6b89218d8e48d7c6fc71697f53b54a1838ef478c
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="1AO0be0PR-IshaD5xeFj-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="20" y="40" width="500" height="500" as="geometry"/>
+                    <mxGeometry x="20" y="60" width="500" height="480" as="geometry"/>
                 </mxCell>
                 <mxCell id="nkspvuDA9fInTW1tYvzs-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="120" y="90" width="280" height="440" as="geometry"/>
@@ -524,8 +516,8 @@
                 <mxCell id="nkspvuDA9fInTW1tYvzs-3" value="Listing&amp;nbsp;&lt;div&gt;Owner&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
                     <mxGeometry x="450" y="255" width="40" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="nkspvuDA9fInTW1tYvzs-4" value="Figure 8 - Adoption Cart Listing&amp;nbsp;&lt;div&gt;Actors: Pet Owner (Adopter) / Pet Owner (Listing Owner)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-                    <mxGeometry x="70" y="50" width="380" height="30" as="geometry"/>
+                <mxCell id="nkspvuDA9fInTW1tYvzs-4" value="&lt;div&gt;Actors: Pet Owner (Adopter) / Pet Owner (Listing Owner)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="60" width="380" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="nkspvuDA9fInTW1tYvzs-5" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Adoption Cart Listing&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="125" y="90" width="270" height="30" as="geometry"/>
@@ -612,22 +604,18 @@
         </mxGraphModel>
     </diagram>
     <diagram id="FIUXDgVMoeZGXY3F_aEU" name="Fig-9">
-<<<<<<< HEAD
-        <mxGraphModel dx="1061" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-=======
-        <mxGraphModel dx="702" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
->>>>>>> 6b89218d8e48d7c6fc71697f53b54a1838ef478c
+        <mxGraphModel dx="772" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="yYswJ0K4AmTGQOa8Ntgx-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="50" y="30" width="470" height="390" as="geometry"/>
+                    <mxGeometry x="50" y="50" width="470" height="370" as="geometry"/>
                 </mxCell>
                 <mxCell id="DRORg30EzVhyJfzoRoEK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="150" y="80" width="360" height="330" as="geometry"/>
                 </mxCell>
-                <mxCell id="DRORg30EzVhyJfzoRoEK-2" value="Figure 9 - Real -Time Messaging And Communication&amp;nbsp;&lt;br&gt;Actor: Pet Owner (Sender &amp;amp; Receiver)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-                    <mxGeometry x="170" y="40" width="340" height="30" as="geometry"/>
+                <mxCell id="DRORg30EzVhyJfzoRoEK-2" value="&amp;nbsp;Actor: Pet Owner (Sender &amp;amp; Receiver)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="115" y="50" width="340" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="DRORg30EzVhyJfzoRoEK-3" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Real -Time Messaging And Communication&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="192.5" y="80" width="285" height="30" as="geometry"/>
@@ -690,10 +678,10 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="CXpjTj0Ajog9L_6_FAe_-1" value="Reciever" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+                <mxCell id="CXpjTj0Ajog9L_6_FAe_-1" value="Reciever" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
                     <mxGeometry x="70" y="300" width="40" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="CXpjTj0Ajog9L_6_FAe_-2" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="CXpjTj0Ajog9L_6_FAe_-1">
+                <mxCell id="CXpjTj0Ajog9L_6_FAe_-2" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="CXpjTj0Ajog9L_6_FAe_-1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="70" y="300" as="sourcePoint"/>
                         <mxPoint x="90" y="240" as="targetPoint"/>
@@ -703,19 +691,15 @@
         </mxGraphModel>
     </diagram>
     <diagram id="TOANkRhuFuVtZu2bpwBV" name="Page-10">
-<<<<<<< HEAD
-        <mxGraphModel dx="1061" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-=======
-        <mxGraphModel dx="984" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
->>>>>>> 6b89218d8e48d7c6fc71697f53b54a1838ef478c
+        <mxGraphModel dx="772" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="vfrfEiJsK9BeGQpQz3MB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="120" y="40" width="390" height="390" as="geometry"/>
+                    <mxGeometry x="120" y="60" width="390" height="370" as="geometry"/>
                 </mxCell>
-                <mxCell id="NlXom5A_95sXFOaGmvUP-1" value="Figure 10 - Notification Management&lt;div&gt;Actor: Pet Owner, Veteriniarian,&amp;nbsp; and Admin&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-                    <mxGeometry x="175" y="50" width="280" height="30" as="geometry"/>
+                <mxCell id="NlXom5A_95sXFOaGmvUP-1" value="&lt;div&gt;Actor: Pet Owner, Veteriniarian,&amp;nbsp; and Admin&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="175" y="60" width="280" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="NlXom5A_95sXFOaGmvUP-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="210" y="90" width="290" height="330" as="geometry"/>
@@ -724,7 +708,7 @@
                     <mxGeometry x="212.5" y="90" width="295" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="NlXom5A_95sXFOaGmvUP-4" value="Pet Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-                    <mxGeometry x="140" y="210" width="40" height="80" as="geometry"/>
+                    <mxGeometry x="135" y="210" width="40" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="NlXom5A_95sXFOaGmvUP-6" value="View Notifications List" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="280" y="130" width="150" height="50" as="geometry"/>
